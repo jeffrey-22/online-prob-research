@@ -14,7 +14,6 @@ Expect quick iterations since I will be constantly marking things as done and ad
 
 ### Related Videos
 
-- [Competitive Algorithms for Online Joint Replenishment and Friends](https://www.youtube.com/watch?v=mrmZD4hM8Fk)
 - [Online Algorithms: Beyond the Worst Case by Anupam Gupta](https://www.youtube.com/watch?v=ulPjPldFye8)
 
 
